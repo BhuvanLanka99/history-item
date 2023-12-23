@@ -1,0 +1,50 @@
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.listed {
+  display: flex;
+}
+
+.time {
+  font-size: ;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+
+.image {
+  width: 40px;
+  height: 40px;
+  margin-left: 15px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.domain {
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+
+.button {
+  background-color: #ffffff;
+  border: 0px;
+  outline: none;
+}
+
+.delete-button {
+}
